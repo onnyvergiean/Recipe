@@ -1,0 +1,255 @@
+* {
+  font-family: 'Poppins', sans-serif;
+  color: #000000;
+  margin: 0;
+  padding: 0;
+}
+::-webkit-scrollbar {
+  display: none;
+}
+.brand-text-icon {
+  font-size: 26px;
+  font-weight: 500;
+  color: #f77e21;
+}
+
+.brand-text-wrapper:hover {
+  text-decoration: none;
+}
+
+header {
+  border-bottom: 1px solid #e5e5e5;
+  width: 100%;
+  position: relative;
+  margin-bottom: 50px;
+}
+
+.navbar {
+  height: 80px;
+}
+
+.navbar-nav.navbar-center {
+  position: absolute;
+  left: 50%;
+  transform: translatex(-50%);
+}
+
+.nav-link {
+  letter-spacing: 1px;
+  color: #000000 !important;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+a.nav-link:hover {
+  text-decoration: underline;
+  text-decoration-color: #f77e21;
+}
+
+.active {
+  color: #f77e21 !important;
+  font-style: normal;
+  text-decoration: none !important;
+}
+
+.btn-warning {
+  background-color: #f77e21;
+  border-color: #f77e21;
+}
+
+.btn-warning:hover {
+  background-color: #f77e21;
+  border-color: #f77e21;
+}
+
+.btn-see-more {
+  width: 200px;
+  height: 50px;
+}
+.btn-see-more a {
+  text-decoration: none;
+  color: #000000;
+}
+
+.title-section {
+  color: #f77e21;
+}
+
+.popular-recipe-name {
+  font-size: 20px;
+  line-height: 135%;
+  margin-top: 20px;
+  text-align: center;
+}
+.a-recipe {
+  text-decoration: none;
+}
+.a-recipe:hover {
+  text-decoration: none;
+}
+.btn-read-more {
+  width: 200px;
+  height: 50px;
+  margin-left: 74px;
+}
+
+.p-footer {
+  font-weight: 300;
+  font-style: normal;
+  font-size: 16px;
+  line-height: 27px;
+  color: #b0b0b0;
+  margin-top: 12px;
+}
+
+.footer-title {
+  font-weight: 500;
+  font-style: normal;
+  font-size: 18px;
+  line-height: 27px;
+}
+
+.footer-icon {
+  height: 24px;
+  width: 24px;
+  display: inline-block;
+}
+
+.footer-last-text {
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 24px;
+  margin-top: 42px;
+  color: #b0b0b0;
+}
+
+.author {
+  color: #b0b0b0;
+  font-size: 12px;
+}
+.published {
+  color: #b0b0b0;
+  font-size: 12px;
+}
+
+.href-detail {
+  color: #000000;
+}
+
+.href-detail:hover {
+  color: #000000;
+}
+
+.login-form {
+  margin-left: 120px;
+  margin-top: 150px;
+}
+.login-form .form-group {
+  width: 437px;
+}
+.login-background {
+  background-color: #f77e21;
+  height: 713px;
+  width: 793.3px;
+}
+
+.login-img {
+  margin: 50px 91px 0px 91px;
+}
+.login-title-text {
+  color: #ffffff;
+}
+.login-title-description {
+  margin-left: 240px;
+}
+.btn-sign-in {
+  width: 437px;
+  height: 40px;
+  border-radius: 10px;
+}
+.btn-sign-in a {
+  color: #ffffff;
+}
+.btn-sign-in a:hover {
+  text-decoration: none;
+}
+.container-sign-up {
+  margin-left: 100px;
+}
+.btn-sign-up {
+  width: 437px;
+  height: 40px;
+  border-radius: 10px;
+  background-color: #e7eaf5;
+  border: #e7eaf5;
+}
+.btn-sign-up a {
+  color: #000000;
+}
+.btn-sign-up a:hover {
+  text-decoration: none;
+}
+.btn-sign-up:hover {
+  background-color: #e7eaf5;
+  border: #e7eaf5;
+}
+
+.btn-logout {
+  border-radius: 10px !important;
+  background-color: #e7eaf5 !important;
+  border: #e7eaf5 !important;
+}
+.sign-up-text {
+  color: #b0b0b0;
+}
+
+.container-signup {
+  margin-top: 20px !important;
+  margin-left: 310px;
+}
+
+.detail-author {
+  color: #f77e21;
+}
+.detail-title {
+  color: #d61c4e;
+}
+
+.detail-publish {
+  color: #747372;
+  font-size: 15px;
+  margin-bottom: 0px;
+}
+
+.detail-sub-title {
+  color: #f77e21;
+}
+
+.detail-view-count {
+  font-size: 14px;
+}
+
+.rounded-profile-picture {
+  border-radius: 50%;
+  height: 40px;
+  width: 40px;
+}
+.rounded-profile-picture-active {
+  border-radius: 50%;
+  height: 40px;
+  width: 40px;
+  border: 2px solid #f77e21;
+}
+
+.edit-btn {
+  width: 140px;
+}
+
+.created-at {
+  color: #747372;
+  font-size: 15px;
+}
+
+.span-profesi {
+  font-size: 15px;
+  color: #b0b0b0;
+}
